@@ -16,4 +16,4 @@ Singapore Channels List
 - StarGoldsg  : STAR Gold
 - MTVIndiasg  : MTV India
 - SonyMaxsg   : SONY MAX
-- Thrillsg    : Thrill
+- StarPlussg  : Star Plus
