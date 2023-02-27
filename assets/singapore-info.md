@@ -10,3 +10,10 @@ Singapore Channels List
 - chusg       : Channel U HD
 - gemsg       : GEM HD
 - animaxsg    : Animax HD
+- XingKongsg  : Xing Kong 
+- DragonTVsg  : Dragon TV Intl
+- SabTVsg     : SAB TV
+- StarGoldsg  : STAR Gold
+- MTVIndiasg  : MTV India
+- SonyMaxsg   : SONY MAX
+- Thrillsg    : Thrill
