@@ -11,7 +11,7 @@ Singapore Channels List
 - gemsg       : GEM HD
 - animaxsg    : Animax HD
 - XingKongsg  : Xing Kong 
-- DragonTVsg  : Dragon TV Intl
+- DragonTVsg  : Dragon TV International
 - SabTVsg     : SAB TV
 - StarGoldsg  : STAR Gold
 - MTVIndiasg  : MTV India
